@@ -5,7 +5,12 @@ avatar_filename: i-7yu8mp_400x400.jpg
 bio: ""
 interests:
   - Dark-Triad
+  - Faking
+  - Response-Bias
+  - Assessment
+  - Scale-Development
   - Emotion-Regulation
+  - ""
 social:
   - icon: envelope
     icon_pack: fas
