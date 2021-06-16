@@ -1,7 +1,7 @@
 ---
 title: Sarah A. Walker
 role: PhD Candidate
-avatar_filename: i-7yu8mp_400x400.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Dark-Triad
