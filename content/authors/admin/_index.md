@@ -1,6 +1,6 @@
 ---
 title: Sarah A. Walker
-role: PhD Candidatehttps://sarahawalker.netlify.app/admin/#/collections/authors
+role: PhD Candidate
 avatar_filename: i-7yu8mp_400x400.jpg
 bio: Broadly, my research interests are focused within personality, and
   cognitive abilities. More specifically, research has focused on the dark triad
