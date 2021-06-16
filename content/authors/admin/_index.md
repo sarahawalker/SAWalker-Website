@@ -1,6 +1,6 @@
 ---
 title: Sarah A. Walker
-role: PhD Candidate, School of Psychology, The University of Sydney
+role: PhD Candidate
 avatar_filename: i-7yu8mp_400x400.jpg
 bio: Broadly, my research interests are focused within personality, and
   cognitive abilities. More specifically, research has focused on the dark triad
@@ -18,32 +18,39 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+  - display:
+      header: false
+    icon_pack: ai
+    icon: orcid
+    link: https://orcid.org/0000-0002-6767-8604/print
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Sarah-Walker-21
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com.au/citations?user=4B2isZcAAAAJ&hl=en
+  - display:
+      header: false
+    icon: publons
+    icon_pack: ai
+    link: https://publons.com/researcher/3900217/sarah-a-walker/
+  - icon: twitter
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://twitter.com/SarahAWalker
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/sannwalker/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Sydney
+    url: https://www.sydney.edu.au/science/schools/school-of-psychology.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MPhil (Science)
+      institution: The University of Sydney
+      year: 2021
+    - course: BSci (Psychology)
+      institution: The University of Sydney
+      year: 2019
 email: ""
 superuser: true
 highlight_name: false
