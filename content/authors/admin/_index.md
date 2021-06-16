@@ -10,10 +10,7 @@ bio: Broadly, my research interests are focused within personality, and
   different contexts and relationships, what motivates extrinsic emotion
   regulation, and the long term impact on relationship satisfaction and personal
   wellbeing.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -56,11 +53,5 @@ superuser: true
 highlight_name: false
 ---
 Sarah A Walker is a PhD candidate at the University of Sydney in the School of Psychology under the supervision of Associate Professors Carolyn MacCann, Damian Birney, and Senior Lecturer, Rebecca Pinkus.  Sarah was awarded a Master of Philosophy (Science) in 2021, and completed a Bachelor of Science in 2019.
-
-
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
