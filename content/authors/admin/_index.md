@@ -11,11 +11,8 @@ bio: Broadly, my research interests are focused within personality, and
   regulation, and the long term impact on relationship satisfaction and personal
   wellbeing.
 interests:
-  - Dark
-  - Triad
-  - dogs
-  - stuff
-  - things
+  - Dark-Triad
+  - Emotion-Regulation
 social:
   - icon: envelope
     icon_pack: fas
