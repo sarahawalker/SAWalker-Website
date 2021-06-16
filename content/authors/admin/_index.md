@@ -9,6 +9,7 @@ interests:
   - Response-Bias
   - Assessment
   - Scale-Development
+  - Emotion-Regulation
 social:
   - icon: envelope
     icon_pack: fas
