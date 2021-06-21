@@ -25,30 +25,83 @@ experience:
   - title: PHD Candidate
     company: The University of Sydney
     company_url: ''
-    company_logo: org-gc
+    company_logo: user-graduate
     location: Sydney
-    date_start: '2021-01-01'
+    date_start: '2021'
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        
+  
   - title: Masters of Philosophy 
     company: The University Of Sydney
     company_url: ''
-    company_logo: org-x
+    company_logo: user-graduate
     location: Sydney
-    date_start: '2019-01-01'
-    date_end: '2020-12-31'
+    date_start: '2019'
+    date_end: '2020'
     description: 
 
   - title: Bachelor of Science (Psychology)
     company: The University Of Sydney
     company_url: ''
-    company_logo: org-x
+    company_logo: user-graduate
     location: Sydney
-    date_start: '2016-01-01'
-    date_end: '2018-12-31'
+    date_start: '2015'
+    date_end: '2018'
+    description: 
+        
+  - title: Research Assistant
+    company: The University of Sydney (School of Psychology; Faculty of Education)
+    company_url: ''
+    company_logo: building
+    location: Sydney
+    date_start: '2015'
+    date_end: ''
+    description: 
+    
+  - title: Teaching Fellow | First Year Undergraduate Psychology
+    company: The University of Sydney, School of Psychology
+    company_url: ''
+    company_logo: apple-alt
+    location: Sydney
+    date_start: '2021'
+    date_end: ''
+    description: 
+    
+  - title: Casual Academic (Lecturer and Tutor)
+    company: The University of Sydney, School of Psychology
+    company_url: ''
+    company_logo: apple-alt
+    location: Sydney
+    date_start: '2019'
+    date_end: ''
+    description: 
+    
+  - title: Research Assistant
+    company: The University of New South Wales (Business School)
+    company_url: ''
+    company_logo: building
+    location: Sydney
+    date_start: '2018'
+    date_end: '2020'
+    description: 
+  
+  - title: Masters of Philosophy 
+    company: The University Of Sydney
+    company_url: ''
+    company_logo: user-graduate
+    location: Sydney
+    date_start: '2019'
+    date_end: '2020'
+    description: 
+
+  - title: Bachelor of Science (Psychology)
+    company: The University Of Sydney
+    company_url: ''
+    company_logo: user-graduate
+    location: Sydney
+    date_start: '2015'
+    date_end: '2018'
     description: 
 
 design:
